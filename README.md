@@ -8,7 +8,7 @@ Facebook などでのやり取りを補完する形で必要に応じて使え�
   * Max 150 名 
   * 設備: 
 * IIJ - 
-  * Max 1xx 名
+  * Max 186 名
   * 設備: 
 * Mozilla Japan 
   * 港区六本木 7-5-6
