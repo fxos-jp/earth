@@ -20,3 +20,4 @@ Facebook などでのやり取りを補完する形で必要に応じて使え�
 * [Firefox OSコミュニティスタッフML](https://groups.google.com/forum/#!forum/firefoxos-staff)
 * [コミュニティスタッフ共有フォルダ](https://drive.google.com/#folders/0B0885zN-AYfobVlTaXM1QnFYUVk)
 * [Mozillaコミュニティイベントで貸し出せるものリスト](https://ja.etherpad.mozilla.org/community-resources)
+* [Firefox OS関連カレンダー](https://www.google.com/calendar/embed?src=cs92bj1tsi7srv8d1lmtqd82t0%40group.calendar.google.com&ctz=Asia/Tokyo)
