@@ -57,6 +57,7 @@ Facebook などでのやり取りを補完する形で必要に応じて使え�
 * [Firefox OS関連カレンダー](https://www.google.com/calendar/embed?src=cs92bj1tsi7srv8d1lmtqd82t0%40group.calendar.google.com&ctz=Asia/Tokyo)
 
 * イベント告知先:
+  * [FxOS.org](http://fxos.org/wp-admin/)
   * [Firefox OS ML](https://groups.google.com/group/firefoxos)
   * [html5j (html5-developers-jp) ML](http://groups.google.com/group/html5-developers-jp/)
   * [日本 Android の会 (android-group-japan) ML](http://groups.google.com/group/android-group-japan)
